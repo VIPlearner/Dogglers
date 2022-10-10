@@ -1,0 +1,625 @@
+10-10 10:07:54.839 10765 10787 I TestRunner: started: vertical_scroll_content_at_first_position(com.example.dogglers.VerticalListTests)
+10-10 10:07:54.844  1076  1076 D OplusLayer: ~Layer() sequence=162506, name=d01dfbc com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0 0xb400007836bde380
+10-10 10:07:54.844  1076  1076 D OplusLayer: ~Layer() sequence=162507, name=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#1 0xb4000077fd916b00
+10-10 10:07:54.848  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:54.852 10765 10787 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-10 10:07:54.861  1076  1076 D OplusLayer: ~Layer() sequence=162519, name=Task=16873#1 0xb4000077fd928080
+10-10 10:07:54.863  1076  1076 D OplusLayer: ~Layer() sequence=162504, name=ActivityRecord{2a7e8bf u0 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0 0xb4000077fd9a25c0
+10-10 10:07:54.864  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:54.870  1046  1046 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-10 10:07:54.870  1046  1046 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-10 10:07:54.872  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:54.873  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:54.873  1027  4918 E ANDR-PERF-LM: ThreadHelper: thread_callback() 145: More than one pending updates!!! This should not happen. MeterMgr should avoid this case.
+10-10 10:07:54.873  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:54.874  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:54.874   588   588 I hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.iop@2.0::IIop/default in either framework or device VINTF manifest.
+10-10 10:07:54.874  1027  1175 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,cpu0-cpu-llcc-lat/mem_latency/ratio_ceil not supported
+10-10 10:07:54.874  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [13, 8]
+10-10 10:07:54.874  1027  1175 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,cpu4-cpu-llcc-lat/mem_latency/ratio_ceil not supported
+10-10 10:07:54.874  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [13, 9]
+10-10 10:07:54.875   588   588 I hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.iop@2.0::IIop/default in either framework or device VINTF manifest.
+10-10 10:07:54.876  1076  1076 I OPE-[OPlusOSyncPerfConfigs]: isRightContentFps 60
+10-10 10:07:54.877  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:54.879  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:54.880  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:54.892  1835  5393 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+10-10 10:07:54.896  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:54.902  1003  5145 E sensors-hal: ssc_conn_event_cb:647, event[0] msg_id=1025, ts=27367961312966 sensor_type = device_orient  Wakeup
+10-10 10:07:54.903  1003  5145 E sensors-hal: handle_sns_client_event:56, ro.build.flavor defined by oplus
+10-10 10:07:54.903  1003  5145 E sensors-hal: handle_sns_client_event:114, device_orient_event:oplus ts=1425409976123617, type=4, count=14189
+10-10 10:07:54.905  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:54.906  1835  5393 V SensorManager: call sensorServiceCommonInterface name: setScreenShotDisable
+10-10 10:07:54.906  1835  5393 D SensorService: SensorService sensorServiceCommonInterface = setScreenShotDisable
+10-10 10:07:54.906  1835  5393 D SensorServiceImpl: SensorServiceExtImpl sensorServiceCommonInterface funcName= setScreenShotDisable , flag =0, status =0
+10-10 10:07:54.906  1835  5393 I OplusHansManager : front pkg: com.example.dogglers, uid: 10438, prev pkg: com.android.launcher, prev uid: 10092
+10-10 10:07:54.907  1835  4424 I OplusHansManager : notifyAppGoForeground, uid=10438
+10-10 10:07:54.907  1835  4424 I OplusHansManager : notifyAppGoBackground, uid=10092
+10-10 10:07:54.907  1835  3252 I OplusHansManager : uid=10438, pkg=com.example.dogglers R exit SM
+10-10 10:07:54.907  1835  3252 I OplusHansManager : uid=10438, pkg=com.example.dogglers R exit()
+10-10 10:07:54.907  1835  3016 I Osense-DecisionMaker: notifySceneToPolicy...SCENE_APP_SWITCH
+10-10 10:07:54.907  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:54.907  1835  3016 D Osense-DecisionMaker: getCurrentSysStats, memMb: 1623
+10-10 10:07:54.908  1027  1176 W ANDR-PERF-LM: MetaMeter: handlePrimaryAsync() 116: PreKill MetaMeter. No MeterMgr Available to handle this Primary Async. !!!!
+10-10 10:07:54.908  1835  3262 I OplusResourcePreloadManager: resume pkg: com.example.dogglers, uid:10438, prev pkg: com.android.launcher, prev uid: 10092
+10-10 10:07:54.913  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:54.914  1835  5393 I InputDispatcher: setFocusedApplication displayId=0 ActivityRecord{3998d49 u0 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity t16874}
+10-10 10:07:54.915  1835  3594 V DCSEX-AppSwitchManager: OnAppSwitchObserver: onAppExit, resuming = com.example.dogglers, target = com.android.launcher, is ResumingFirstStart =  false, is ResumingMultiApp =  false, extensionInfo =  Bundle[{taskId=16874, uid=10438}]
+10-10 10:07:54.915  1835  9058 D DCSEX-AppLaunchEventRecorder: onAppSwitch from = com.android.launcher to = com.example.dogglers
+10-10 10:07:54.916  1835  5393 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+10-10 10:07:54.917  1046  1046 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-10 10:07:54.918  1046  1046 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-10 10:07:54.919  1835  3594 V DCSEX-AppSwitchManager: OnAppSwitchObserver: onAppEnter, launchedFrom =  com.example.dogglers, target =  com.example.dogglers, is firstStart =  false, is multiApp =  false, extensionInfo =  Bundle[{taskId=16874, pid=10765, uid=10438}]
+10-10 10:07:54.916  4460  4460 W Binder:4460_1: type=1400 audit(0.0:998185): avc: denied { read } for name="ac" dev="sysfs" ino=53024 scontext=u:r:horae:s0 tcontext=u:object_r:vendor_sysfs_usb_supply:s0 tclass=lnk_file permissive=0
+10-10 10:07:54.919  1046  1046 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-10 10:07:54.920  1046  1046 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-10 10:07:54.921  1046  1046 E ORMS_HAL: open /sys/class/devfreq/soc:qcom,cpu0-cpu-llcc-lat/max_freq failed(No such file or directory)
+10-10 10:07:54.921  1046  1046 E ORMS_HAL: open /sys/class/devfreq/soc:qcom,cpu6-cpu-llcc-lat/max_freq failed(No such file or directory)
+10-10 10:07:54.921  1046  1046 E ORMS_HAL: open /sys/class/devfreq/soc:qcom,cpu0-llcc-ddr-lat/max_freq failed(No such file or directory)
+10-10 10:07:54.921  1046  1046 E ORMS_HAL: open /sys/class/devfreq/soc:qcom,cpu6-llcc-ddr-lat/max_freq failed(No such file or directory)
+10-10 10:07:54.916  4460  4460 W Binder:4460_1: type=1400 audit(0.0:998186): avc: denied { read } for name="usb" dev="sysfs" ino=53061 scontext=u:r:horae:s0 tcontext=u:object_r:vendor_sysfs_usb_supply:s0 tclass=lnk_file permissive=0
+10-10 10:07:54.923  1046  1046 E ORMS_HAL: open /sys/class/devfreq/soc:qcom,cpu-cpu-llcc-bw/bw_hwmon/hist_memory failed(No such file or directory)
+10-10 10:07:54.923  1046  1046 E ORMS_HAL: open /sys/class/devfreq/soc:qcom,cpu-cpu-llcc-bw/bw_hwmon/hyst_trigger_count failed(No such file or directory)
+10-10 10:07:54.925 10538 10559 D ZoomAppController: ignore onAppEnter: mCurrentZoomInfo is null
+10-10 10:07:54.926  1835  2551 E AthenaService: MemoryGuardAction: handleAppChange
+10-10 10:07:54.926  1835  5392 W AthenaService: NandSwap: next app list is null or empty
+10-10 10:07:54.928  1027  1175 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,cpu0-cpu-llcc-lat/mem_latency/ratio_ceil not supported
+10-10 10:07:54.928  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [13, 8]
+10-10 10:07:54.928  1027  1175 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,cpu4-cpu-llcc-lat/mem_latency/ratio_ceil not supported
+10-10 10:07:54.928  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [13, 9]
+10-10 10:07:54.928 16085 16114 D AudioPolicyService: updateUidStates_l() current->uid=10140 current->pid=9571 allowCapture=1 UidState=5 apmStat=1
+10-10 10:07:54.928  1835  2878 V ListServiceUtils: checkInListByUid start module:custom-icc uid:1000  time 1121788954384us
+10-10 10:07:54.929  1510  1510 D MMListService: getPackageNameByUid uid:1000, procName:
+10-10 10:07:54.930  3496 25260 W Battery : ThermalControlUtils: mForegroundPkg=com.example.dogglers
+10-10 10:07:54.933  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:54.934  3496 25260 W Battery : ThermalControllHandler: tempLevel=6,userMode=2,gameUserMode=-1,appType=-1,envTempType=0,appStates=[]
+10-10 10:07:54.934  3496 25260 W Battery : ThermalControllerCenter: mSafetyState=10000
+10-10 10:07:54.935  1076  1326 I VRR [FRTC]: setFrameRateTarget with [0, com.android.launcher, 0, com.oplus.battery]
+10-10 10:07:54.935  1076  1326 W VRR [FRTC]: invalid param { fps 0, proc_name com.android.launcher, strict_mode 0, description com.oplus.battery, rate_status 0, backend Surface, enable at 2022-10-10 10:07:54, disable waiting } for current status.
+10-10 10:07:54.935  1076  1326 W VRR [FRTC]: CurrentTarget size 0:
+10-10 10:07:54.935 10765 10765 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6867960 in: PRE_ON_CREATE
+10-10 10:07:54.935  3496 25260 W Battery : ThermalControllHandler: tempGear=6,configItemName=common_config
+10-10 10:07:54.936  1027  1175 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,cpu0-cpu-llcc-lat/mem_latency/ratio_ceil not supported
+10-10 10:07:54.936  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [13, 8]
+10-10 10:07:54.936  1027  1175 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,cpu4-cpu-llcc-lat/mem_latency/ratio_ceil not supported
+10-10 10:07:54.936  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [13, 9]
+10-10 10:07:54.936  1027  1175 E ANDR-PERF-OPTSHANDLER: Min bounds check failed
+10-10 10:07:54.936  1027  1175 E ANDR-PERF-OPTSHANDLER: Error! Perflock failed, invalid request value 14236
+10-10 10:07:54.936  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [6, 6]
+10-10 10:07:54.936 10765 10765 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10438 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6867960
+10-10 10:07:54.937  1835  2878 V ListServiceUtils: checkInListByUid end module:custom-icc uid:1000  time 1121788962845us
+10-10 10:07:54.937  1835  2878 D ListServiceUtils: checkInListByUid module:custom-icc uid:1000 cost 8458us return 0
+10-10 10:07:54.937  1835  2878 E ListServiceUtils: checkInListByUid module:custom-icc uid:1000 cost 8458us return 0
+10-10 10:07:54.937  1510  1510 D MMListService: getListValueByUid module:image-processing, uid:1000
+10-10 10:07:54.937  1510  1510 D MMListService: getPackageNameByUid uid:1000, procName:
+10-10 10:07:54.937  1835  2878 V ListServiceUtils: checkInListByUid module:image-processing uid:1000 cost 601us return (null)
+10-10 10:07:54.937  1835  2878 V JpegEncoderExtImpl: Resolution: 1080 x 2400,support: 0;
+10-10 10:07:54.939  1835  4319 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.oplus.hardware.charger@1.0::ICharger/default
+10-10 10:07:54.940  3496  6523 W Battery : ThermalControllHandler: MSG_THERMAL_CONTROL_CATEGORY_CHANGED
+10-10 10:07:54.943  5859 20015 V DeepThinker: ProcessManager: onForegroundActivitiesChanged pid:10765, uid:10438, foregroundActivities:true
+10-10 10:07:54.944 16231 21093 D OplusAtlas.OplusAtlasEventDispatch: setEvent:atlas_event_on_foreground_activities_changed info:pid:10765,uid:10438,hasForegroundActivities:1
+10-10 10:07:54.944 16231 16249 D OplusAtlas.OplusAudioScene: callback success event:atlas_event_on_foreground_activities_changed eventInfo:pid:10765,uid:10438,hasForegroundActivities:1
+10-10 10:07:54.945 16231 16261 D OplusAtlas.OplusMessageHandler: handleMessage: Msg { when=0 what=2 obj=com.oplus.atlas.OplusAtlasEvent@17d4f22 target=com.oplus.atlas.OplusMessageHandler$MyHandler }
+10-10 10:07:54.946  1835  2104 D WindowManager: Add to mViews: DecorView@1052966[dogglers],pkg= com.example.dogglers
+10-10 10:07:54.947  1835  2104 D OplusDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+10-10 10:07:54.950 16085 16114 D AudioPolicyService: updateUidStates_l() current->uid=10140 current->pid=9571 allowCapture=1 UidState=5 apmStat=1
+10-10 10:07:54.961  1835  2104 D OplusDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+10-10 10:07:54.963  1835  3642 I FocusResolver: updateFocusedWindow,  on display 0, reason: NO_WINDOW, result:   FocusedWindows: <none>
+10-10 10:07:54.964  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:54.974 10765 10765 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6867960 in: CREATED
+10-10 10:07:54.974 10765 10765 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10438 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6867960
+10-10 10:07:54.977 10765 10765 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6867960 in: STARTED
+10-10 10:07:54.977 10765 10765 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10438 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6867960
+10-10 10:07:54.981  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:54.983  1046  1046 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-10 10:07:54.984  1046  1046 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-10 10:07:54.985  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:54.989  1027  1175 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,cpu0-cpu-llcc-lat/mem_latency/ratio_ceil not supported
+10-10 10:07:54.989  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [13, 8]
+10-10 10:07:54.989  1027  1175 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,cpu4-cpu-llcc-lat/mem_latency/ratio_ceil not supported
+10-10 10:07:54.989  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [13, 9]
+10-10 10:07:54.989  1027  1175 E ANDR-PERF-OPTSHANDLER: Min bounds check failed
+10-10 10:07:54.989  1027  1175 E ANDR-PERF-OPTSHANDLER: Error! Perflock failed, invalid request value 14236
+10-10 10:07:54.989  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [6, 6]
+10-10 10:07:54.992  1835  5756 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+10-10 10:07:54.993  1835  2878 W Bitmap  : Called getWidth() on a recycle()'d bitmap! This is undefined behavior!
+10-10 10:07:54.993  1835  2878 W Bitmap  : Called getHeight() on a recycle()'d bitmap! This is undefined behavior!
+10-10 10:07:54.999  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:54.999 10765 10765 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6867960 in: RESUMED
+10-10 10:07:55.000 10765 10765 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10438 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6867960
+10-10 10:07:55.004 10765 10765 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6867960 in: PAUSED
+10-10 10:07:55.005 10765 10765 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10438 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6867960
+10-10 10:07:55.007  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.014  1835  3642 I InputDispatcher: setFocusedApplication displayId=0 ActivityRecord{2da71d8 u0 com.example.dogglers/.VerticalListActivity t16874}
+10-10 10:07:55.016  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.018  1835  2878 V ListServiceUtils: checkInListByUid start module:custom-icc uid:1000  time 1121789044454us
+10-10 10:07:55.019  1510  1510 D MMListService: getPackageNameByUid uid:1000, procName:
+10-10 10:07:55.019  1835  2878 V ListServiceUtils: checkInListByUid end module:custom-icc uid:1000  time 1121789045167us
+10-10 10:07:55.019  1835  2878 D ListServiceUtils: checkInListByUid module:custom-icc uid:1000 cost 711us return 0
+10-10 10:07:55.019  1510  1510 D MMListService: getListValueByUid module:image-processing, uid:1000
+10-10 10:07:55.019  1510  1510 D MMListService: getPackageNameByUid uid:1000, procName:
+10-10 10:07:55.020  1835  2878 V ListServiceUtils: checkInListByUid module:image-processing uid:1000 cost 594us return (null)
+10-10 10:07:55.020  1835  2878 V JpegEncoderExtImpl: Resolution: 540 x 1200,support: 0;
+10-10 10:07:55.023  1046  1046 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-10 10:07:55.024  1046  1046 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-10 10:07:55.027  1076  1076 I OPE-[OPlusOSyncPerfConfigs]: isRightContentFps 30
+10-10 10:07:55.028  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.031  1027  1175 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,cpu0-cpu-llcc-lat/mem_latency/ratio_ceil not supported
+10-10 10:07:55.031  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [13, 8]
+10-10 10:07:55.032  1027  1175 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,cpu4-cpu-llcc-lat/mem_latency/ratio_ceil not supported
+10-10 10:07:55.032  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [13, 9]
+10-10 10:07:55.032  1027  1175 E ANDR-PERF-OPTSHANDLER: Min bounds check failed
+10-10 10:07:55.032  1027  1175 E ANDR-PERF-OPTSHANDLER: Error! Perflock failed, invalid request value 14236
+10-10 10:07:55.032  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [6, 6]
+10-10 10:07:55.033 10765 10765 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@caacaea in: PRE_ON_CREATE
+10-10 10:07:55.033 10765 10765 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-10 10:07:55.041 10765 10765 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+10-10 10:07:55.042 10765 10765 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+10-10 10:07:55.042 10765 10765 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+10-10 10:07:55.060  1076  1076 D OplusLayer: setBuffer sequence=162523, name=Splash Screen com.example.dogglers#0
+10-10 10:07:55.060  1076  1076 I OplusLayer: VRR [FRTC] update from -1 to 0
+10-10 10:07:55.060  1835  4956 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+10-10 10:07:55.062 10765 10765 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+10-10 10:07:55.062 10765 10765 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+10-10 10:07:55.062 10765 10765 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+10-10 10:07:55.064  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.076  1076  1076 I OPE-[OPlusOSyncPerfConfigs]: isRightContentFps 60
+10-10 10:07:55.078  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.079  1076  1076 D OplusLayer: ~Layer() sequence=162512, name=Surface(name=b9a9e91 StatusBar)/@0x7c4a536 - animation-leash of insets_animation#0 0xb4000077fd9a7500
+10-10 10:07:55.079  1076  1076 D OplusLayer: ~Layer() sequence=162513, name=Surface(name=135cfa4 NavigationBar0)/@0x9a066d3 - animation-leash of insets_animation#0 0xb4000077fd9ac440
+10-10 10:07:55.083  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.086 10765 10765 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@caacaea in: CREATED
+10-10 10:07:55.087 10765 10765 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.dogglers.VerticalListActivity@caacaea
+10-10 10:07:55.091 10765 10765 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@caacaea in: STARTED
+10-10 10:07:55.091 10765 10765 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.dogglers.VerticalListActivity@caacaea
+10-10 10:07:55.094 10765 10765 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@caacaea in: RESUMED
+10-10 10:07:55.095 10765 10765 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.dogglers.VerticalListActivity@caacaea
+10-10 10:07:55.100  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.101 10765 10765 D WindowManager: Add to mViews: DecorView@50f9cf9[VerticalListActivity],pkg= com.example.dogglers
+10-10 10:07:55.106  1835  4956 D OplusDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+10-10 10:07:55.111 10765 10765 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6867960 in: STOPPED
+10-10 10:07:55.112  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.112 10765 10765 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10438 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6867960
+10-10 10:07:55.120  1835  5756 D OplusDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+10-10 10:07:55.128  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.130  1835  5756 D Theia.NoFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+10-10 10:07:55.147  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.162  1076  1076 D OplusLayer: ~Layer() sequence=162526, name=Surface(name=b9a9e91 StatusBar)/@0x7c4a536 - animation-leash of insets_animation#1 0xb4000077fd679ac0
+10-10 10:07:55.163  1076  1076 D OplusLayer: ~Layer() sequence=162527, name=Surface(name=135cfa4 NavigationBar0)/@0x9a066d3 - animation-leash of insets_animation#1 0xb4000077fd616940
+10-10 10:07:55.165  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.175  1076  1076 I OPE-[OPlusOSyncPerfConfigs]: isRightContentFps 30
+10-10 10:07:55.175  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.177  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.191  1076  1076 I OPE-[OPlusOSyncPerfConfigs]: isRightContentFps 60
+10-10 10:07:55.192  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.194  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.210  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.225  1076  1076 D OplusLayer: setBuffer sequence=162529, name=com.example.dogglers/com.example.dogglers.VerticalListActivity#0
+10-10 10:07:55.225  1076  1076 I OplusLayer: VRR [FRTC] update from -1 to 0
+10-10 10:07:55.226 10765 10826 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+10-10 10:07:55.228  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.233  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.234  1027  4918 E ANDR-PERF-LM: ThreadHelper: thread_callback() 145: More than one pending updates!!! This should not happen. MeterMgr should avoid this case.
+10-10 10:07:55.234  1835  2094 W ziparchive: Unable to open '/data/app/~~H0Dau-mRsNz4Whe8seeaFw==/com.example.dogglers-vi6mcixtUTvBIvkvCMp_nw==/base.dm': No such file or directory
+10-10 10:07:55.236  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.238  1027  4918 E ANDR-PERF-LM: ThreadHelper: thread_callback() 145: More than one pending updates!!! This should not happen. MeterMgr should avoid this case.
+10-10 10:07:55.239  1835  2104 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+10-10 10:07:55.239  1835  2104 W InputManager-JNI: Input channel object '86d6d54 Splash Screen com.example.dogglers (client)' was disposed without first being removed with the input manager!
+10-10 10:07:55.240   588   588 I hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.iop@2.0::IIop/default in either framework or device VINTF manifest.
+10-10 10:07:55.242  1835  2094 I ActivityTaskManager: Displayed com.example.dogglers/.VerticalListActivity: +363ms
+10-10 10:07:55.243 10765 10765 D RootViewPicker: Root not ready - waiting: 10ms for one to appear.
+10-10 10:07:55.243   588   588 I hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.iop@2.0::IIop/default in either framework or device VINTF manifest.
+10-10 10:07:55.248  1835  3642 I FocusResolver: updateFocusedWindow, 31466ab com.example.dogglers/com.example.dogglers.VerticalListActivity on display 0, reason: Window became focusable. Previous reason: NOT_VISIBLE, result:   FocusedWindows:
+10-10 10:07:55.248  1835  3642 I FocusResolver:     displayId=0, name='31466ab com.example.dogglers/com.example.dogglers.VerticalListActivity'
+10-10 10:07:55.248  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.255  1835  3642 D InputMethodManagerService: isSecurity: attribute.packageName=com.example.dogglers mCurMethodId=com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME
+10-10 10:07:55.255  1835  3642 D InputMethodManagerService: isSecurity= false (  enable=false needShow=false inBlackList=false isExist=false )
+10-10 10:07:55.259  1076  1076 I OPE-[OPlusOSyncPerfConfigs]: isRightContentFps 30
+10-10 10:07:55.259  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.263 23446 23446 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3182
+10-10 10:07:55.266  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.269 23446 23446 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2077 checkRepeatedly = false, unlocked = true
+10-10 10:07:55.270 23446 23446 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1885 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+10-10 10:07:55.270 23446 23446 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2077 checkRepeatedly = true, unlocked = true
+10-10 10:07:55.280  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.281 10765 10765 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Tzeitel"
+10-10 10:07:55.291  1076  1076 I OPE-[OPlusOSyncPerfConfigs]: isRightContentFps 60
+10-10 10:07:55.292  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.292  1076  1076 D OplusLayer: ~Layer() sequence=162518, name=Surface(name=9f74209 InputMethod)/@0x5b9743c - animation-leash of insets_animation#1 0xb4000077fdb953c0
+10-10 10:07:55.295  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.305 10765 10765 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "7"
+10-10 10:07:55.306 10765 10765 E ViewAssertions: '(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)' check could not be performed because view 'an instance of android.widget.TextView and view.getText() with or without transformation to match: is "7"' was not found.
+10-10 10:07:55.310  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.320  1046  1046 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-10 10:07:55.320  1046  1046 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-10 10:07:55.321 31461 31787 D NetworkController.MobileSignalController(1): onMobileStatusChanged= updateTelephony=true mobileStatus=[activityIn=true,activityOut=true,dataSim=false,carrierNetworkChangeMode=false,dataState=0,serviceState=mVoiceRegState=0(IN_SERVICE), mDataRegState=0(IN_SERVICE),signalStrength=4,telephonyDisplayInfo=TelephonyDisplayInfo {network=LTE, override=NONE}]
+10-10 10:07:55.322  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.322  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.323  1027  4918 E ANDR-PERF-LM: ThreadHelper: thread_callback() 145: More than one pending updates!!! This should not happen. MeterMgr should avoid this case.
+10-10 10:07:55.323  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.323  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.323   588   588 I hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.iop@2.0::IIop/default in either framework or device VINTF manifest.
+10-10 10:07:55.324   588   588 I hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.iop@2.0::IIop/default in either framework or device VINTF manifest.
+10-10 10:07:55.325  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.329  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.330  1835  3642 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+10-10 10:07:55.338 10765 10765 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@caacaea in: PAUSED
+10-10 10:07:55.339 10765 10765 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.dogglers.VerticalListActivity@caacaea
+10-10 10:07:55.341  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.342  1027  1176 W ANDR-PERF-LM: MetaMeter: handlePrimaryAsync() 116: PreKill MetaMeter. No MeterMgr Available to handle this Primary Async. !!!!
+10-10 10:07:55.343  1027  1175 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,cpu0-cpu-llcc-lat/mem_latency/ratio_ceil not supported
+10-10 10:07:55.343  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [13, 8]
+10-10 10:07:55.343  1027  1175 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,cpu4-cpu-llcc-lat/mem_latency/ratio_ceil not supported
+10-10 10:07:55.343  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [13, 9]
+10-10 10:07:55.343  1027  1175 E ANDR-PERF-OPTSHANDLER: Min bounds check failed
+10-10 10:07:55.343  1027  1175 E ANDR-PERF-OPTSHANDLER: Error! Perflock failed, invalid request value 14236
+10-10 10:07:55.343  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [6, 6]
+10-10 10:07:55.348  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.348  1835  4956 I InputDispatcher: setFocusedApplication displayId=0 ActivityRecord{5483702 u0 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity t16874}
+10-10 10:07:55.353  1835  4956 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+10-10 10:07:55.357  1076  1076 I OPE-[OPlusOSyncPerfConfigs]: isRightContentFps 30
+10-10 10:07:55.358  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.361  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.367  1046  1046 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-10 10:07:55.367  1046  1046 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-10 10:07:55.370  1027  1175 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,cpu0-cpu-llcc-lat/mem_latency/ratio_ceil not supported
+10-10 10:07:55.370  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [13, 8]
+10-10 10:07:55.370  1027  1175 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,cpu4-cpu-llcc-lat/mem_latency/ratio_ceil not supported
+10-10 10:07:55.370  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [13, 9]
+10-10 10:07:55.370  1027  1175 E ANDR-PERF-OPTSHANDLER: Min bounds check failed
+10-10 10:07:55.370  1027  1175 E ANDR-PERF-OPTSHANDLER: Error! Perflock failed, invalid request value 14236
+10-10 10:07:55.370  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [6, 6]
+10-10 10:07:55.372 10765 10765 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@774bbd4 in: PRE_ON_CREATE
+10-10 10:07:55.372 10765 10765 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10438 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@774bbd4
+10-10 10:07:55.378  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.389 10765 10765 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@774bbd4 in: CREATED
+10-10 10:07:55.390 10765 10765 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10438 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@774bbd4
+10-10 10:07:55.392 10765 10765 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@774bbd4 in: STARTED
+10-10 10:07:55.392 10765 10765 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10438 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@774bbd4
+10-10 10:07:55.393  1835  4956 I FocusResolver: updateFocusedWindow,  on display 0, reason: NO_WINDOW, result:   FocusedWindows: <none>
+10-10 10:07:55.394  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.396 10765 10765 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@774bbd4 in: RESUMED
+10-10 10:07:55.396 10765 10765 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10438 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@774bbd4
+10-10 10:07:55.401 10765 10765 D WindowManager: Add to mViews: DecorView@d4bc140[InstrumentationActivityInvoker$EmptyActivity],pkg= com.example.dogglers
+10-10 10:07:55.405  1835  4956 D OplusDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+10-10 10:07:55.410  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.419  1835  4956 D OplusDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+10-10 10:07:55.422  3496  3871 D AppSwitchListener: onAppEnter: Uid = 10438
+10-10 10:07:55.422  3496  3871 W AuthDialogHelper: checkNotificationSwitchFirst() called with: context = [com.oplus.notification.NotificationCenterService@ffa5866], pkg = [com.example.dogglers], uid = [10438], userId = [0], init checker
+10-10 10:07:55.423  3496  3871 E AuthDialogHelper: CheckNotificationCanBeSetSecond: check com.example.dogglers , Notification master switch on, unable to pop dialog
+10-10 10:07:55.424  1076  1076 I OPE-[OPlusOSyncPerfConfigs]: isRightContentFps 60
+10-10 10:07:55.424  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.425  1076  1076 D OplusLayer: ~Layer() sequence=162531, name=Surface(name=135cfa4 NavigationBar0)/@0x9a066d3 - animation-leash of insets_animation#0 0xb4000077fd61bac0
+10-10 10:07:55.425  1076  1076 D OplusLayer: ~Layer() sequence=162530, name=Surface(name=b9a9e91 StatusBar)/@0x7c4a536 - animation-leash of insets_animation#0 0xb400007836bde180
+10-10 10:07:55.426  1076  1076 D OplusLayer: ~Layer() sequence=162532, name=Surface(name=86d6d54 Splash Screen com.example.dogglers)/@0xac27931 - animation-leash of window_animation#0 0xb4000077fd9cac80
+10-10 10:07:55.426  1076  1076 D OplusLayer: ~Layer() sequence=162522, name=86d6d54 Splash Screen com.example.dogglers#0 0xb4000077fd984cc0
+10-10 10:07:55.426  1076  1076 D OplusLayer: ~Layer() sequence=162535, name=Surface(name=b9a9e91 StatusBar)/@0x7c4a536 - animation-leash of insets_animation#1 0xb4000077fdb4e000
+10-10 10:07:55.427  1076  1076 D OplusLayer: ~Layer() sequence=162536, name=Surface(name=135cfa4 NavigationBar0)/@0x9a066d3 - animation-leash of insets_animation#1 0xb4000077fdb53700
+10-10 10:07:55.429  1076  1076 D OplusLayer: ~Layer() sequence=162523, name=Splash Screen com.example.dogglers#0 0xb4000077fd916780
+10-10 10:07:55.429  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.431  1835  4956 D Theia.NoFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+10-10 10:07:55.446  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.461  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.461  1076  1076 D OplusLayer: setBuffer sequence=162540, name=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0
+10-10 10:07:55.461  1076  1076 I OplusLayer: VRR [FRTC] update from -1 to 0
+10-10 10:07:55.462  1027  4918 E ANDR-PERF-LM: ThreadHelper: thread_callback() 145: More than one pending updates!!! This should not happen. MeterMgr should avoid this case.
+10-10 10:07:55.464  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.466  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.467 10765 10780 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+10-10 10:07:55.468   588   588 I hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.iop@2.0::IIop/default in either framework or device VINTF manifest.
+10-10 10:07:55.468  1835  2094 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +141ms
+10-10 10:07:55.469   588   588 I hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.iop@2.0::IIop/default in either framework or device VINTF manifest.
+10-10 10:07:55.469  1027  4918 E ANDR-PERF-LM: ThreadHelper: thread_callback() 145: More than one pending updates!!! This should not happen. MeterMgr should avoid this case.
+10-10 10:07:55.475  1076  1076 D OplusLayer: ~Layer() sequence=162539, name=Surface(name=135cfa4 NavigationBar0)/@0x9a066d3 - animation-leash of insets_animation#0 0xb4000077fdb58340
+10-10 10:07:55.475  1076  1076 D OplusLayer: ~Layer() sequence=162538, name=Surface(name=b9a9e91 StatusBar)/@0x7c4a536 - animation-leash of insets_animation#0 0xb4000077fdb95000
+10-10 10:07:55.477  1835  5756 I FocusResolver: updateFocusedWindow, 8b21067 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity on display 0, reason: Window became focusable. Previous reason: NOT_VISIBLE, result:   FocusedWindows:
+10-10 10:07:55.477  1835  5756 I FocusResolver:     displayId=0, name='8b21067 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity'
+10-10 10:07:55.477 10765 10797 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+10-10 10:07:55.479  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.493  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.493  1046  1046 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-10 10:07:55.494  1046  1046 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-10 10:07:55.496  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.497  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.497  1027  4918 E ANDR-PERF-LM: ThreadHelper: thread_callback() 145: More than one pending updates!!! This should not happen. MeterMgr should avoid this case.
+10-10 10:07:55.497  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.498  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.498   588   588 I hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.iop@2.0::IIop/default in either framework or device VINTF manifest.
+10-10 10:07:55.498   588   588 I hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.iop@2.0::IIop/default in either framework or device VINTF manifest.
+10-10 10:07:55.499  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.503  1027  1175 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,cpu0-cpu-llcc-lat/mem_latency/ratio_ceil not supported
+10-10 10:07:55.503  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [13, 8]
+10-10 10:07:55.503  1027  1175 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,cpu4-cpu-llcc-lat/mem_latency/ratio_ceil not supported
+10-10 10:07:55.503  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [13, 9]
+10-10 10:07:55.503  1027  1175 E ANDR-PERF-OPTSHANDLER: Min bounds check failed
+10-10 10:07:55.503  1027  1175 E ANDR-PERF-OPTSHANDLER: Error! Perflock failed, invalid request value 14236
+10-10 10:07:55.503  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [6, 6]
+10-10 10:07:55.505  1835  4956 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+10-10 10:07:55.510  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.517  1835  4956 D InputMethodManagerService: isSecurity: attribute.packageName=com.example.dogglers mCurMethodId=com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME
+10-10 10:07:55.517  1835  4956 D InputMethodManagerService: isSecurity= false (  enable=false needShow=false inBlackList=false isExist=false )
+10-10 10:07:55.518 23446 23446 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3182
+10-10 10:07:55.519 23446 23446 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2077 checkRepeatedly = false, unlocked = true
+10-10 10:07:55.519 10765 10765 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@caacaea in: STOPPED
+10-10 10:07:55.520 23446 23446 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1885 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+10-10 10:07:55.520 10765 10765 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.dogglers.VerticalListActivity@caacaea
+10-10 10:07:55.520 23446 23446 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2077 checkRepeatedly = true, unlocked = true
+10-10 10:07:55.522  1046  1046 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-10 10:07:55.522 10765 10765 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@caacaea in: DESTROYED
+10-10 10:07:55.522  1046  1046 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-10 10:07:55.522 10765 10765 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+10-10 10:07:55.526  1835  3612 W InputManager-JNI: Input channel object '31466ab com.example.dogglers/com.example.dogglers.VerticalListActivity (client)' was disposed without first being removed with the input manager!
+10-10 10:07:55.526  1027  1175 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,cpu0-cpu-llcc-lat/mem_latency/ratio_ceil not supported
+10-10 10:07:55.526  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [13, 8]
+10-10 10:07:55.526  1027  1175 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,cpu4-cpu-llcc-lat/mem_latency/ratio_ceil not supported
+10-10 10:07:55.526  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [13, 9]
+10-10 10:07:55.526  1027  1175 E ANDR-PERF-OPTSHANDLER: Min bounds check failed
+10-10 10:07:55.526  1027  1175 E ANDR-PERF-OPTSHANDLER: Error! Perflock failed, invalid request value 14236
+10-10 10:07:55.527  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [6, 6]
+10-10 10:07:55.530  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.535 10765 10765 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@774bbd4 in: PAUSED
+10-10 10:07:55.535 10765 10765 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10438 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@774bbd4
+10-10 10:07:55.537  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.538  1027  1176 W ANDR-PERF-LM: MetaMeter: handlePrimaryAsync() 116: PreKill MetaMeter. No MeterMgr Available to handle this Primary Async. !!!!
+10-10 10:07:55.540  1076  1076 I OPE-[OPlusOSyncPerfConfigs]: isRightContentFps 30
+10-10 10:07:55.540  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.544  1076  1076 D OplusLayer: ~Layer() sequence=162533, name=Surface(name=9f74209 InputMethod)/@0x5b9743c - animation-leash of insets_animation#0 0xb4000077fd99a740
+10-10 10:07:55.544  1076  1076 D OplusLayer: ~Layer() sequence=162528, name=31466ab com.example.dogglers/com.example.dogglers.VerticalListActivity#0 0xb4000077fd9954c0
+10-10 10:07:55.545  1076  1076 D OplusLayer: ~Layer() sequence=162529, name=com.example.dogglers/com.example.dogglers.VerticalListActivity#0 0xb4000077fdb80600
+10-10 10:07:55.546  1835  4956 I InputDispatcher: setFocusedApplication displayId=0 ActivityRecord{a213bf3 u0 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity t16874}
+10-10 10:07:55.548  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.548  1835  4956 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+10-10 10:07:55.556  1076  1076 I OPE-[OPlusOSyncPerfConfigs]: isRightContentFps 60
+10-10 10:07:55.557  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.558  1076  1076 D OplusLayer: ~Layer() sequence=162524, name=ActivityRecord{2da71d8 u0 com.example.dogglers/.VerticalListActivity#0 0xb4000077fd990980
+10-10 10:07:55.560 10765 10765 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6867960 in: DESTROYED
+10-10 10:07:55.560 10765 10765 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10438 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6867960
+10-10 10:07:55.561  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.564  1046  1046 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-10 10:07:55.565  1046  1046 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-10 10:07:55.568  1027  1175 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,cpu0-cpu-llcc-lat/mem_latency/ratio_ceil not supported
+10-10 10:07:55.568  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [13, 8]
+10-10 10:07:55.568  1027  1175 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,cpu4-cpu-llcc-lat/mem_latency/ratio_ceil not supported
+10-10 10:07:55.568  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [13, 9]
+10-10 10:07:55.568  1027  1175 E ANDR-PERF-OPTSHANDLER: Min bounds check failed
+10-10 10:07:55.568  1027  1175 E ANDR-PERF-OPTSHANDLER: Error! Perflock failed, invalid request value 14236
+10-10 10:07:55.568  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [6, 6]
+10-10 10:07:55.573 10765 10765 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@27ad3ca in: PRE_ON_CREATE
+10-10 10:07:55.573 10765 10765 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10438 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@27ad3ca
+10-10 10:07:55.575  1076  1076 D OplusLayer: ~Layer() sequence=162525, name=Surface(name=Task=5)/@0x32b81ab - animation-leash of app_transition#0 0xb4000077fd928e00
+10-10 10:07:55.575  1076  1076 D OplusLayer: ~Layer() sequence=162521, name=ActivityRecord{3998d49 u0 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity#0 0xb4000077fd950540
+10-10 10:07:55.577  1835  3642 I FocusResolver: updateFocusedWindow,  on display 0, reason: NO_WINDOW, result:   FocusedWindows: <none>
+10-10 10:07:55.577  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.578  3410  3670 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+10-10 10:07:55.593 10765 10765 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@27ad3ca in: CREATED
+10-10 10:07:55.594 10765 10765 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10438 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@27ad3ca
+10-10 10:07:55.596 10765 10765 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@27ad3ca in: STARTED
+10-10 10:07:55.596 10765 10765 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10438 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@27ad3ca
+10-10 10:07:55.600 10765 10765 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@27ad3ca in: RESUMED
+10-10 10:07:55.600 10765 10765 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10438 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@27ad3ca
+10-10 10:07:55.605 10765 10765 D WindowManager: Add to mViews: DecorView@25a6296[InstrumentationActivityInvoker$EmptyActivity],pkg= com.example.dogglers
+10-10 10:07:55.610  1835  4956 D OplusDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+10-10 10:07:55.626  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.630  1835  4956 D OplusDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+10-10 10:07:55.643  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.643  1835  4956 D Theia.NoFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+10-10 10:07:55.661  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.666  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.667  1027  4918 E ANDR-PERF-LM: ThreadHelper: thread_callback() 145: More than one pending updates!!! This should not happen. MeterMgr should avoid this case.
+10-10 10:07:55.670  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.671  1027  4918 E ANDR-PERF-LM: ThreadHelper: thread_callback() 145: More than one pending updates!!! This should not happen. MeterMgr should avoid this case.
+10-10 10:07:55.671   588   588 I hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.iop@2.0::IIop/default in either framework or device VINTF manifest.
+10-10 10:07:55.671  1835  2094 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +178ms
+10-10 10:07:55.672   588   588 I hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.iop@2.0::IIop/default in either framework or device VINTF manifest.
+10-10 10:07:55.673  1076  1076 D OplusLayer: setBuffer sequence=162546, name=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#1
+10-10 10:07:55.673  1076  1076 I OplusLayer: VRR [FRTC] update from -1 to 0
+10-10 10:07:55.674 10765 10780 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+10-10 10:07:55.676  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.690  1076  1076 D OplusLayer: ~Layer() sequence=162541, name=Surface(name=b9a9e91 StatusBar)/@0x7c4a536 - animation-leash of insets_animation#1 0xb4000077fd99f640
+10-10 10:07:55.690  1076  1076 D OplusLayer: ~Layer() sequence=162542, name=Surface(name=135cfa4 NavigationBar0)/@0x9a066d3 - animation-leash of insets_animation#1 0xb4000077fd9a4f00
+10-10 10:07:55.692  1835  3612 I FocusResolver: updateFocusedWindow, 2c23f3f com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity on display 0, reason: Window became focusable. Previous reason: NOT_VISIBLE, result:   FocusedWindows:
+10-10 10:07:55.692  1835  3612 I FocusResolver:     displayId=0, name='2c23f3f com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity'
+10-10 10:07:55.693 10765 10797 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+10-10 10:07:55.694  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.697 16231 21093 D OplusAtlas.OplusAtlasEventDispatch: setEvent:atlas_event_on_foreground_activities_changed info:pid:3410,uid:10092,hasForegroundActivities:0
+10-10 10:07:55.698  5859 20015 V DeepThinker: ProcessManager: onForegroundActivitiesChanged pid:3410, uid:10092, foregroundActivities:false
+10-10 10:07:55.698 16231 16249 D OplusAtlas.OplusAudioScene: callback success event:atlas_event_on_foreground_activities_changed eventInfo:pid:3410,uid:10092,hasForegroundActivities:0
+10-10 10:07:55.699 16231 16261 D OplusAtlas.OplusMessageHandler: handleMessage: Msg { when=0 what=2 obj=com.oplus.atlas.OplusAtlasEvent@6c33db3 target=com.oplus.atlas.OplusMessageHandler$MyHandler }
+10-10 10:07:55.701 16085 16114 D AudioPolicyService: updateUidStates_l() current->uid=10140 current->pid=9571 allowCapture=1 UidState=5 apmStat=1
+10-10 10:07:55.702 16085 16114 D AudioPolicyService: updateUidStates_l() current->uid=10140 current->pid=9571 allowCapture=1 UidState=5 apmStat=1
+10-10 10:07:55.705 10765 10765 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@774bbd4 in: STOPPED
+10-10 10:07:55.706 10765 10765 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10438 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@774bbd4
+10-10 10:07:55.708  1076  1076 D OplusLayer: ~Layer() sequence=162511, name=com.android.launcher/com.android.launcher.Launcher#0 0xb4000077fd668d00
+10-10 10:07:55.710  1835  4956 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+10-10 10:07:55.711  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.717  1046  1046 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-10 10:07:55.717  1046  1046 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-10 10:07:55.718  1835  4956 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+10-10 10:07:55.719  1835  4956 I InputDispatcher: setFocusedApplication displayId=0 ActivityRecord{83ffe u0 com.android.launcher/.Launcher t5}
+10-10 10:07:55.720  1046  1046 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-10 10:07:55.720  1046  1046 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-10 10:07:55.721  1046  1046 E ORMS_HAL: open /sys/class/devfreq/soc:qcom,cpu0-llcc-ddr-lat/max_freq failed(No such file or directory)
+10-10 10:07:55.721  1046  1046 E ORMS_HAL: open /sys/class/devfreq/soc:qcom,cpu6-llcc-ddr-lat/max_freq failed(No such file or directory)
+10-10 10:07:55.721  1046  1046 E ORMS_HAL: open /sys/class/devfreq/soc:qcom,cpu-cpu-llcc-bw/bw_hwmon/hyst_trigger_count failed(No such file or directory)
+10-10 10:07:55.725  1027  1175 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,cpu0-cpu-llcc-lat/mem_latency/ratio_ceil not supported
+10-10 10:07:55.725  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [13, 8]
+10-10 10:07:55.725  1027  1175 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,cpu4-cpu-llcc-lat/mem_latency/ratio_ceil not supported
+10-10 10:07:55.725  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [13, 9]
+10-10 10:07:55.725  1027  1175 E ANDR-PERF-OPTSHANDLER: Min bounds check failed
+10-10 10:07:55.725  1027  1175 E ANDR-PERF-OPTSHANDLER: Error! Perflock failed, invalid request value 14236
+10-10 10:07:55.725  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [6, 6]
+10-10 10:07:55.728  1027  1175 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,cpu0-cpu-llcc-lat/mem_latency/ratio_ceil not supported
+10-10 10:07:55.728  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [13, 8]
+10-10 10:07:55.728  1027  1175 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,cpu4-cpu-llcc-lat/mem_latency/ratio_ceil not supported
+10-10 10:07:55.728  1027  1175 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [13, 9]
+10-10 10:07:55.733  1835  4956 D InputMethodManagerService: isSecurity: attribute.packageName=com.example.dogglers mCurMethodId=com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME
+10-10 10:07:55.733  1835  4956 D InputMethodManagerService: isSecurity= false (  enable=false needShow=false inBlackList=false isExist=false )
+10-10 10:07:55.733  1835  4956 D InputMethodManagerService: isSecurity: attribute.packageName=com.example.dogglers mCurMethodId=com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME
+10-10 10:07:55.733  1835  4956 D InputMethodManagerService: isSecurity= false (  enable=false needShow=false inBlackList=false isExist=false )
+10-10 10:07:55.733  1835  4956 D InputMethodManagerService: startInputOrWindowGainedFocus:  reset Secure =false
+10-10 10:07:55.736 10765 10765 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@27ad3ca in: PAUSED
+10-10 10:07:55.736 10765 10765 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10438 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@27ad3ca
+10-10 10:07:55.739  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.740  1835  3612 V SensorManager: call sensorServiceCommonInterface name: setScreenShotDisable
+10-10 10:07:55.740  1835  3612 D SensorService: SensorService sensorServiceCommonInterface = setScreenShotDisable
+10-10 10:07:55.740  1835  3612 D SensorServiceImpl: SensorServiceExtImpl sensorServiceCommonInterface funcName= setScreenShotDisable , flag =0, status =0
+10-10 10:07:55.741  1835  3612 I OplusHansManager : front pkg: com.android.launcher, uid: 10092, prev pkg: com.example.dogglers, prev uid: 10438
+10-10 10:07:55.741  1835  3016 I Osense-DecisionMaker: notifySceneToPolicy...SCENE_LAUNCHER
+10-10 10:07:55.741  1835  4424 I OplusHansManager : notifyAppGoForeground, uid=10092
+10-10 10:07:55.741  1835  3016 D Osense-DecisionMaker: getCurrentSysStats, memMb: 1633
+10-10 10:07:55.741  1835  4424 I OplusHansManager : notifyAppGoBackground, uid=10438
+10-10 10:07:55.742  1835  3252 I OplusHansManager : uid=10438, pkg=com.example.dogglers enter SM
+10-10 10:07:55.742  1835  3252 I OplusHansManager : uid=10438, pkg=com.example.dogglers R enter()
+10-10 10:07:55.742  1835  3262 I OplusResourcePreloadManager: resume pkg: com.android.launcher, uid:10092, prev pkg: com.example.dogglers, prev uid: 10438
+10-10 10:07:55.743  1835  4956 I FocusResolver: updateFocusedWindow,  on display 0, reason: NO_WINDOW, result:   FocusedWindows: <none>
+10-10 10:07:55.744  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.745  1835  3594 V DCSEX-AppSwitchManager: OnAppSwitchObserver: onAppExit, resuming = com.android.launcher, target = com.example.dogglers, is ResumingFirstStart =  false, is ResumingMultiApp =  false, extensionInfo =  Bundle[{taskId=5, uid=10092}]
+10-10 10:07:55.746  1835  9058 D DCSEX-AppLaunchEventRecorder: onAppSwitch from = com.example.dogglers to = com.android.launcher
+10-10 10:07:55.749  3496 25260 D AppSwitchListener: onAppExit() called !
+10-10 10:07:55.749   588   588 I hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.iop@2.0::IIop/default in either framework or device VINTF manifest.
+10-10 10:07:55.749  1835  1439 E ANDR-PERF-JNI: UXEngine Trigger - Returning null
+10-10 10:07:55.744  4460  4460 W Binder:4460_1: type=1400 audit(0.0:998188): avc: denied { read } for name="ac" dev="sysfs" ino=53024 scontext=u:r:horae:s0 tcontext=u:object_r:vendor_sysfs_usb_supply:s0 tclass=lnk_file permissive=0
+10-10 10:07:55.748  4460  4460 W Binder:4460_1: type=1400 audit(0.0:998189): avc: denied { read } for name="usb" dev="sysfs" ino=53061 scontext=u:r:horae:s0 tcontext=u:object_r:vendor_sysfs_usb_supply:s0 tclass=lnk_file permissive=0
+10-10 10:07:55.750  3496 25260 W Battery : ThermalControlUtils: mForegroundPkg=com.android.launcher
+10-10 10:07:55.751  1076  1326 I VRR [FRTC]: setFrameRateTarget with [0, com.example.dogglers, 0, com.oplus.battery]
+10-10 10:07:55.751  1076  1326 W VRR [FRTC]: invalid param { fps 0, proc_name com.example.dogglers, strict_mode 0, description com.oplus.battery, rate_status 0, backend Surface, enable at 2022-10-10 10:07:55, disable waiting } for current status.
+10-10 10:07:55.751  1076  1326 W VRR [FRTC]: CurrentTarget size 0:
+10-10 10:07:55.753  3496 25260 W Battery : ThermalControllHandler: tempLevel=6,userMode=2,gameUserMode=-1,appType=-1,envTempType=0,appStates=[]
+10-10 10:07:55.753  3496 25260 W Battery : ThermalControllerCenter: mSafetyState=10000
+10-10 10:07:55.754  1835  2551 E AthenaService: MemoryGuardAction: handleAppChange
+10-10 10:07:55.755  3496 25260 W Battery : ThermalControllHandler: tempGear=6,configItemName=common_config
+10-10 10:07:55.756  1076  1076 I OPE-[OPlusOSyncPerfConfigs]: isRightContentFps 30
+10-10 10:07:55.757 10765 10765 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@774bbd4 in: DESTROYED
+10-10 10:07:55.757  1027  1027 E vendor.qti.hardware.perf@2.2-service: Unknown params
+10-10 10:07:55.757 10765 10765 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10438 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@774bbd4
+10-10 10:07:55.752  1835  1835 W android.display: type=1400 audit(0.0:998190): avc: denied { write } for name="fg_uids" dev="proc" ino=4026532193 scontext=u:r:system_server:s0 tcontext=u:object_r:oplus_fg_uid_proc:s0 tclass=file permissive=0
+10-10 10:07:55.758 16085 16114 D AudioPolicyService: updateUidStates_l() current->uid=10140 current->pid=9571 allowCapture=1 UidState=5 apmStat=1
+10-10 10:07:55.759  1835  3612 W InputManager-JNI: Input channel object '8b21067 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+10-10 10:07:55.759  1835  3594 V DCSEX-AppSwitchManager: OnAppSwitchObserver: onAppEnter, launchedFrom =  null, target =  com.android.launcher, is firstStart =  false, is multiApp =  false, extensionInfo =  Bundle[{taskId=5, pid=3410, uid=10092}]
+10-10 10:07:55.761 10538 10559 D ZoomAppController: ignore onAppEnter: mCurrentZoomInfo is null
+10-10 10:07:55.763  5859 20015 V DeepThinker: ProcessManager: onForegroundActivitiesChanged pid:3410, uid:10092, foregroundActivities:true
+10-10 10:07:55.764 16231 21093 D OplusAtlas.OplusAtlasEventDispatch: setEvent:atlas_event_on_foreground_activities_changed info:pid:3410,uid:10092,hasForegroundActivities:1
+10-10 10:07:55.764 16231 16249 D OplusAtlas.OplusAudioScene: callback success event:atlas_event_on_foreground_activities_changed eventInfo:pid:3410,uid:10092,hasForegroundActivities:1
+10-10 10:07:55.764 16231 16261 D OplusAtlas.OplusMessageHandler: handleMessage: Msg { when=0 what=2 obj=com.oplus.atlas.OplusAtlasEvent@95fff70 target=com.oplus.atlas.OplusMessageHandler$MyHandler }
+10-10 10:07:55.769 10765 10787 E TestRunner: failed: vertical_scroll_content_at_first_position(com.example.dogglers.VerticalListTests)
+10-10 10:07:55.769 10765 10787 E TestRunner: ----- begin exception -----
+10-10 10:07:55.772 10765 10787 E TestRunner: androidx.test.espresso.NoMatchingViewException: No views in hierarchy found matching: an instance of android.widget.TextView and view.getText() with or without transformation to match: is "7"
+10-10 10:07:55.772 10765 10787 E TestRunner:
+10-10 10:07:55.772 10765 10787 E TestRunner: View Hierarchy:
+10-10 10:07:55.772 10765 10787 E TestRunner: +>DecorView{id=-1, visibility=VISIBLE, width=1080, height=2400, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params={(0,0)(fillxfill) ty=BASE_APPLICATION wanim=0x10302fe
+10-10 10:07:55.772 10765 10787 E TestRunner:   fl=LAYOUT_IN_SCREEN LAYOUT_INSET_DECOR SPLIT_TOUCH HARDWARE_ACCELERATED DRAWS_SYSTEM_BAR_BACKGROUNDS
+10-10 10:07:55.772 10765 10787 E TestRunner:   pfl=NO_MOVE_ANIMATION FORCE_DRAW_STATUS_BAR_BACKGROUND FIT_INSETS_CONTROLLED
+10-10 10:07:55.772 10765 10787 E TestRunner:   bhv=DEFAULT
+10-10 10:07:55.772 10765 10787 E TestRunner:   fitSides= CLP[ ]}, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +->LinearLayout{id=-1, visibility=VISIBLE, width=1080, height=2400, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@163db14, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +-->ViewStub{id=16908720, res-name=action_mode_bar_stub, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@9bc8fbd, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +-->FrameLayout{id=-1, visibility=VISIBLE, width=1080, height=2285, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@44bd03, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=115.0, child-count=1}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +--->ActionBarOverlayLayout{id=2131230866, res-name=decor_content_parent, visibility=VISIBLE, width=1080, height=2285, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@ce2fefe, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +---->ContentFrameLayout{id=16908290, res-name=content, visibility=VISIBLE, width=1080, height=2117, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@31778ac, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=168.0, child-count=1}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +----->FrameLayout{id=-1, visibility=VISIBLE, width=1080, height=2117, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@bec0d0a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +------>RecyclerView{id=2131231206, res-name=vertical_recycler_view, visibility=VISIBLE, width=1080, height=2117, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@5c5efd6, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +------->MaterialCardView{id=-1, visibility=VISIBLE, width=1032, height=785, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@5be3144, tag=null, root-is-layout-requested=false, has-input-connection=false, x=24.0, y=24.0, is-checked=false, child-count=1}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +-------->ConstraintLayout{id=-1, visibility=VISIBLE, width=1032, height=785, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@19b7429, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=4}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +--------->AppCompatImageView{id=2131230885, res-name=dog_image, desc=Picture of Dog, visibility=VISIBLE, width=1032, height=582, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@d4b23ae, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +--------->MaterialTextView{id=2131230886, res-name=dog_name, visibility=VISIBLE, width=174, height=73, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@471654f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=24.0, y=606.0, text=Tzeitel, input-type=0, ime-target=false, has-links=false}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +--------->MaterialTextView{id=2131230883, res-name=dog_age, visibility=VISIBLE, width=134, height=58, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@b4064dc, tag=null, root-is-layout-requested=false, has-input-connection=false, x=24.0, y=727.0, text=Age: 7, input-type=0, ime-target=false, has-links=false}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +--------->MaterialTextView{id=2131230884, res-name=dog_hobbies, visibility=VISIBLE, width=433, height=58, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@74e29e5, tag=null, root-is-layout-requested=false, has-input-connection=false, x=575.0, y=727.0, text=Hobbies: sunbathing, input-type=0, ime-target=false, has-links=false}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +------->MaterialCardView{id=-1, visibility=VISIBLE, width=1032, height=785, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@509076b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=24.0, y=857.0, is-checked=false, child-count=1}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +-------->ConstraintLayout{id=-1, visibility=VISIBLE, width=1032, height=785, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@e327374, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=4}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +--------->AppCompatImageView{id=2131230885, res-name=dog_image, desc=Picture of Dog, visibility=VISIBLE, width=1032, height=582, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@a60b09d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +--------->MaterialTextView{id=2131230886, res-name=dog_name, visibility=VISIBLE, width=146, height=73, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@7693912, tag=null, root-is-layout-requested=false, has-input-connection=false, x=24.0, y=606.0, text=Leroy, input-type=0, ime-target=false, has-links=false}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +--------->MaterialTextView{id=2131230883, res-name=dog_age, visibility=VISIBLE, width=135, height=58, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@d1cf8e3, tag=null, root-is-layout-requested=false, has-input-connection=false, x=24.0, y=727.0, text=Age: 4, input-type=0, ime-target=false, has-links=false}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +--------->MaterialTextView{id=2131230884, res-name=dog_hobbies, visibility=VISIBLE, width=806, height=58, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@bbd52e0, tag=null, root-is-layout-requested=false, has-input-connection=false, x=202.0, y=727.0, text=Hobbies: sleeping in dangerous places, input-type=0, ime-target=false, has-links=false}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +------->MaterialCardView{id=-1, visibility=VISIBLE, width=1032, height=785, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@a1dd45e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=24.0, y=1690.0, is-checked=false, child-count=1}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +-------->ConstraintLayout{id=-1, visibility=VISIBLE, width=1032, height=785, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@39ea15b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=4}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +--------->AppCompatImageView{id=2131230885, res-name=dog_image, desc=Picture of Dog, visibility=VISIBLE, width=1032, height=582, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@7169df8, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +--------->MaterialTextView{id=2131230886, res-name=dog_name, visibility=VISIBLE, width=197, height=73, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@e9302d1, tag=null, root-is-layout-requested=false, has-input-connection=false, x=24.0, y=606.0, text=Frankie, input-type=0, ime-target=false, has-links=false}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +--------->MaterialTextView{id=2131230883, res-name=dog_age, visibility=VISIBLE, width=133, height=58, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@e1a1136, tag=null, root-is-layout-requested=false, has-input-connection=false, x=24.0, y=727.0, text=Age: 2, input-type=0, ime-target=false, has-links=false}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +--------->MaterialTextView{id=2131230884, res-name=dog_hobbies, visibility=VISIBLE, width=490, height=58, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@81bf837, tag=null, root-is-layout-requested=false, has-input-connection=false, x=518.0, y=727.0, text=Hobbies: stealing socks, input-type=0, ime-target=false, has-links=false}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +---->ActionBarContainer{id=2131230774, res-name=action_bar_container, visibility=VISIBLE, width=1080, height=168, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@fee0ac2, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +----->Toolbar{id=2131230772, res-name=action_bar, visibility=VISIBLE, width=1080, height=168, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@916110e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +------>AppCompatTextView{id=-1, visibility=VISIBLE, width=256, height=81, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@66bb72f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=216.0, y=43.0, text=Dogglers, input-type=0, ime-target=false, has-links=false}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +------>AppCompatImageButton{id=-1, desc=Navigate up, visibility=VISIBLE, width=168, height=168, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@b07813c, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +------>ActionMenuView{id=-1, visibility=VISIBLE, width=0, height=168, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@bfa7ec5, tag=null, root-is-layout-requested=false, has-input-connection=false, x=1080.0, y=0.0, child-count=0}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +----->ActionBarContextView{id=2131230780, res-name=action_context_bar, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@da6301a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
+10-10 10:07:55.772 10765 10787 E TestRunner: |
+10-10 10:07:55.772 10765 10787 E TestRunner: +->View{id=16908335, res-name=statusBarBackground, visibility=VISIBLE, width=1080, height=115, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@86974b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at dalvik.system.VMStack.getThreadStackTrace(Native Method)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at java.lang.Thread.getStackTrace(Thread.java:1841)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:8)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at androidx.test.espresso.ViewInteraction.check(ViewInteraction.java:12)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at com.example.dogglers.BaseTest.hasListItemContent(BaseTest.kt:59)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at com.example.dogglers.BaseTest.checkFirstPosition(BaseTest.kt:70)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at com.example.dogglers.VerticalListTests.vertical_scroll_content_at_first_position(VerticalListTests.kt:42)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:48)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+10-10 10:07:55.772 10765 10787 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2275)
+10-10 10:07:55.772 10765 10787 E TestRunner: ----- end exception -----
+10-10 10:07:55.774 16085 16114 D AudioPolicyService: updateUidStates_l() current->uid=10140 current->pid=9571 allowCapture=1 UidState=5 apmStat=1
+10-10 10:07:55.774 16085 16114 D AudioPolicyService: updateUidStates_l() current->uid=10140 current->pid=9571 allowCapture=1 UidState=5 apmStat=1
+10-10 10:07:55.774  1076  1076 D OplusLayer: ~Layer() sequence=162537, name=8b21067 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0 0xb4000077fd974cc0
+10-10 10:07:55.774  1076  1076 D OplusLayer: ~Layer() sequence=162540, name=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0 0xb4000077fd8d3c00
+10-10 10:07:55.775  1076  1076 D OplusLayer: ~Layer() sequence=162544, name=Surface(name=9f74209 InputMethod)/@0x5b9743c - animation-leash of insets_animation#1 0xb4000077fd691640
+10-10 10:07:55.778  1076  1076 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+10-10 10:07:55.778  1835  3642 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.oplus.hardware.charger@1.0::ICharger/default
+10-10 10:07:55.780 10765 10787 I TestRunner: finished: vertical_scroll_content_at_first_position(com.example.dogglers.VerticalListTests)
